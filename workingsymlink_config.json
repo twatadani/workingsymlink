@@ -1,0 +1,5 @@
+{
+    "SymLink_EXT": [ ".py", ".env" ],
+    "EXCLUDE": [ ".git" ],
+    "ABSPATH": false
+}
